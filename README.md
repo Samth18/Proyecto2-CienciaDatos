@@ -1,4 +1,4 @@
-# Proyecto 2 - Pokeminimax
+# Proyecto 2 - 3
 
 **Curso:** INTRODUCCIÓN A LA CIENCIA DE DATOS
 
