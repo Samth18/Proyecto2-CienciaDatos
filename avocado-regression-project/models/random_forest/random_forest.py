@@ -258,7 +258,7 @@ plt.show()
 
 # 10. CONCLUSIONES
 print("\n" + "=" * 70)
-print("Conclusiones del analisis")
+print("Conclusiones del análisis")
 print("=" * 70)
 
 if metricas_test['r2'] > 0.85:
