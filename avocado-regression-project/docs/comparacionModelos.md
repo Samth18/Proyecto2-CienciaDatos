@@ -127,8 +127,8 @@ plt.show()
 
 El MSE mide la precisión de las predicciones. Un valor más bajo indica mejor rendimiento:
 
-- **Regresión Lineal**: 0.0114 (Tercer mejor)
-- **Red Neuronal**: 0.0127 (Segundo mejor)
+- **Regresión Lineal**: 0.0114 (Segundo mejor)
+- **Red Neuronal**: 0.0127 (Tercer mejor)
 - **Árbol de Decisión**: 0.032 (Rendimiento inferior)
 - **Random Forest**: 0.0072 (Mejor rendimiento)
 
