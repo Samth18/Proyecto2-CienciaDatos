@@ -10,13 +10,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from pathlib import Path
 
-# =====================================================================
-# PROYECTO: PREDICCIÓN DE PRECIO DE AGUACATES CON RANDOM FOREST
-# =====================================================================
-
-print("=" * 70)
 print("ANÁLISIS DE PRECIOS DE AGUACATES CON RANDOM FOREST")
-print("=" * 70)
 
 # 1. CARGAR Y EXPLORAR DATOS
 print("\n Paso 1: Cargando datos y explorandolos.")
