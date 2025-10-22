@@ -138,7 +138,7 @@ Random Forest muestra el MSE más bajo, lo que sugiere que proporciona las predi
 
 El R² indica qué porcentaje de la varianza en la variable objetivo es explicado por el modelo. Más alto es mejor:
 
-- **Regresión Lineal**: 0.7726 (Segundo rendimiento)
+- **Regresión Lineal**: 0.7726 (Segundo mejor)
 - **Red Neuronal**: 0.7473 (Tercer mejor)
 - **Árbol de Decisión**: 0.365 (Rendimiento inferior)
 - **Random Forest**: 0.8461 (Mejor rendimiento)
