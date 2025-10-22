@@ -90,7 +90,7 @@ El análisis temporal muestra:
 ![Promedio de precios de aguacate por año](../results/plots/promedioPrecios.png)
 
 - Ligero aumento en precios promedio entre 2015 y 2018
-- Fluctuaciones estacionales en los precios (no visibles directamente en el gráfico anual)
+- Fluctuaciones estacionales en los precios (no visibles directamente en el gráfico anual; para visualizar estos patrones sería necesario un análisis de series temporales con mayor granularidad, como mensual o trimestral)
 
 > **Insight**: Existe una tendencia alcista en los precios de los aguacates a lo largo de los años, lo que podría reflejar mayor demanda o efectos inflacionarios.
 
