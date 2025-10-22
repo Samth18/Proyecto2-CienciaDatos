@@ -132,7 +132,7 @@ El MSE mide la precisión de las predicciones. Un valor más bajo indica mejor r
 - **Árbol de Decisión**: 0.032 (Rendimiento inferior)
 - **Random Forest**: 0.0072 (Mejor rendimiento)
 
-La regresión lineal muestra el MSE más bajo, lo que sugiere que proporciona las predicciones más precisas para este conjunto de datos.
+Random Forest muestra el MSE más bajo, lo que sugiere que proporciona las predicciones más precisas para este conjunto de datos.
 
 ### Comparación de R² (Coeficiente de Determinación)
 
