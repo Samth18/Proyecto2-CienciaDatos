@@ -38,6 +38,8 @@ El análisis reveló que ciertas regiones, el tipo de aguacate (orgánico/conven
 
 ![Comparación de Modelos](../results/plots/comparacion_modelos_mejorada.png)
 
+![Comparación de Modelos Mejorando el DTR](../results/plots/comparacion_modelos_actualizada.png)
+
 1. **Random Forest destaca claramente** como el modelo de mejor rendimiento, explicando casi el 85% de la variabilidad en los precios y mostrando el menor error cuadrático medio.
 
 2. **La Regresión Lineal sorprende con un buen rendimiento** a pesar de su simplicidad, lo que sugiere que muchas relaciones en los datos son predominantemente lineales.
