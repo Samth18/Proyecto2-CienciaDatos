@@ -18,4 +18,4 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto consiste en implementar el algoritmo Minimax para el juego Pokeminimax. El objetivo es desarrollar una solución que permita simular partidas entre dos jugadores, utilizando estrategias de búsqueda y evaluación de estados para tomar decisiones óptimas en cada turno. Se aplicarán conceptos de inteligencia artificial y optimización, y se trabajará con archivos de entrada que describen el estado inicial del juego.
+El propósito de este proyecto es aplicar los conocimientos adquiridos en análisis exploratorio de datos, normalización y limpieza de datos y modelos de aprendizaje automático.
